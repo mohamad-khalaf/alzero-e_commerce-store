@@ -1,0 +1,28 @@
+/* Starrt main Rols  */
+body {
+ background-color: #f4f4f4;
+}
+/* ُEnd main Rols  */
+.login-form {
+    width: 300px;
+    margin: 100px auto;
+}
+.login-form .title {
+    color: #222;
+}
+.login-form .form-control {
+    background-color: #eaeaea;
+}
+.login-form .btn {
+    background-color: #008dde;
+    width: 100%;
+}
+/* Start Member Page  */
+.member-page section {
+    min-height: 100vh;
+}
+.member-page form {
+    max-width: 700px;
+    margin: auto;
+}
+/* End Member Page  */
